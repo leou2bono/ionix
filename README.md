@@ -1,4 +1,4 @@
-# Task API – Gestión de Usuarios, Roles y Tareas
+# Prueba tecnica Ionix – Gestión de Usuarios, Roles y Tareas
 
 API REST en **Node.js + Express + MongoDB** que implementa autenticación JWT y control de acceso por roles (Administrador, Ejecutor, Auditor).  
 Permite gestionar usuarios, tareas y comentarios con reglas de negocio específicas.
